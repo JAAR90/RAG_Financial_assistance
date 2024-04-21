@@ -15,7 +15,7 @@ This allos the LLM to have memory and provide a personalized assitance
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b>
-- - <b>Langchain</b>
+- <b>Langchain</b>
 
 <h2>Environments and Tech Used </h2>
 
