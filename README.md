@@ -21,7 +21,6 @@ This allos the LLM to have memory and provide a personalized assitance
 - <b>Pinecone Database</b> 
 - <b>Hugging face</b> 
 - <b>Open AI API</b>
-- <b>Open AI API</b>
 - <b>Open AI gpt-4 MOODEL</b>
 - <b>Open AI text-embedding-ada-002 MOODEL</b>
 
